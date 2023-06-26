@@ -12,8 +12,8 @@ Tecnologias utilizadas:
 Funções Google App Script utilizadas:
 
 *doPost()para receber os dados do formulário via método POST
-*calculaCustoMerenda()para calcular o valor final do custo da merenda
+*calculaGastoMerenda()para calcular o valor final do custo da merenda
 Arquivos do projeto:
 
-*index.html: o formulário HTML
+*calcular.html: o formulário HTML
 *code.gs: o código do servidor em Google App Script
